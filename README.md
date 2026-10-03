@@ -166,8 +166,6 @@ Origin\_Gel\_Process\_Verification
 
 &#x20;       main.py
 
-&#x20;       main\_backup.py
-
 
 
 &#x20;   simulator
@@ -197,12 +195,6 @@ Origin\_Gel\_Process\_Verification
 &#x20;       verification plots
 
 
-
-&#x20;   docs
-
-
-
-&#x20;   README.txt
 
 
 
