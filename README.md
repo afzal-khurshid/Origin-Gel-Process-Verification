@@ -422,7 +422,21 @@ Target values
 
 Verification thresholds
 
+\## Dashboard Screenshots
 
+Normal Process — PASS
+
+
+
+!\[Normal Process PASS](screenshots/normal\_pass.png)
+
+RPM Drift — FAIL
+
+\[RPM Drift FAIL](screenshots/rpm\_drift\_fail.png)
+
+Temperature Drift — FAIL
+
+!\[Temperature Drift FAIL](screenshots/temperature\_drift\_fail.png)
 
 To launch it:
 
